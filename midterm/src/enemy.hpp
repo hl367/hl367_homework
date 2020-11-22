@@ -6,7 +6,7 @@
 #include "ofMain.h"		
 #include "bullet.hpp"		
 
-#define enemynumber 15 //the number of array
+#define enemynumber 100 //the number of array
 
 class enemy{
 
